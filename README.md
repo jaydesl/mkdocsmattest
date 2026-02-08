@@ -1,1 +1,1 @@
-# mkdocsmattest
+# Material for MkDocs Template
