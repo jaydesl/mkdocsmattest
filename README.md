@@ -82,4 +82,4 @@ This material was developed by the RCDS team at ECRI.
 
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
-ECRI logo: https://blogs.imperial.ac.uk/early-career-researcher-noticeboard/files/2024/09/Untitled-14.png
+ECRI logo at docs/assets/ecri-banner.png
